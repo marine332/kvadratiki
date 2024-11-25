@@ -1,0 +1,22 @@
+.container {
+    height: 400px;
+    width: 500px;
+    background-color: #ffb28b;
+    position: relative;
+}
+
+.container1 {
+    height: 400px;
+    width: 500px;
+    background-color: #F0E68C;
+    position: absolute;
+    margin-top: 35px;
+}
+
+.container2 {
+    height: 400px;
+    width: 500px;
+    background-color: #71593a;
+    position: fixed;
+    margin-top: 170px;
+}
